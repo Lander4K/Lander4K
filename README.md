@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-💻 Estoy aprendiendo Javascript junto con HTML y CSS<br>🔭 Estoy trabajando en un Bot de Discord.js llamado Lander Jr.<br>👯 Buscando colaborar con otros desarolladores 😉<br>💬 Preguntame lo que quieras 😄<br>🧗 Intento superar mis limites<br>
+💻 Estoy aprendiendo Javascript junto con Python y Rust<br>🔭 Estoy trabajando en un Bot de Discord.js llamado Lander Jr.<br>👯 Buscando colaborar con otros desarolladores 😉<br>💬 Preguntame lo que quieras 😄<br>🧗 Intento superar mis limites<br>
 
 
 ## 🌐 Redes Sociales:
