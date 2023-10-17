@@ -1,23 +1,77 @@
-  <h1 align="center">Hi 👋, I'm L4nder</h1>
-<h3 align="center">A Ethical Hacker / Red Teamer from Spain 🇪🇸</h3>
+<h3 align="center">
+    <img src="https://raw.githubusercontent.com/Lander4K/Lander4K/main/assets/l4nder-rounded.png" width="150"
+        height="75" alt="logo" /></br>
+    L4nder
+    <h5 align="center">
+        I'm a young red teamer, pentester and developer.</br>
+        Learning React, Django and much more, checkout my repos
+    </h5>
+    <h5 align="center">
+        If you want to develop some things contact me ;)
+    </h5>
+</h3>
 
-- 🔭 I’m currently working on [L4nbot](https://github.com/Lander4K/L4nbot)
-
-- 🌱 I’m currently learning **ReactJS, C, C#, Binary Exploiting & Malware Development**
-
-- 👯 I’m looking to collaborate on [HackTheBox](https://app.hackthebox.com)
-
-- 👨‍💻 All of my projects are available at [https://lander4k.github.io](https://github.com/Lander4K)
-
-- 📝 I regularly write articles on [https://lander4k.github.io](https://lander4k.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xl4nder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xl4nder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lander-delgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lander delgado" height="30" width="40" /></a>
-<a href="https://discord.gg/ecruXB7MGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ecruXB7MGw" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://github.com/Lander4K?tab=followers">
+        <img src="https://img.shields.io/github/followers/Lander4K?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
+            alt="">
+    </a><br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="center">Social Media</h2>
+<p align="center">
+    <a href="https://twitter.com/xl4nder">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
+            alt="Twitter">
+    </a>
+    <a href="https://www.instagram.com/lander4k_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
+            alt="Instagram" />
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
+            alt="Discord">
+    </a>
+</p><br>
 
+<h2 align="center">Github Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lander4K&row_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"
+        alt="Github Stats"><br><br>
+    <a href="https://github.com/Lander4K">
+        <img src="https://github-profile-trophy.vercel.app/?username=Lander4K&theme=nord&row=1" alt="Trophies">
+    </a>
+    <br>
+</p><br>
+
+<h2 align="center">Languages</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Python">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Go">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Bash">
+    <img src="https://img.shields.io/badge/C-4EAA25?style=for-the-badge&logo=C&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="C">
+    <img src="https://img.shields.io/badge/JavaScript-4EAA25?style=for-the-badge&logo=JavaScript&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="JavaScript">
+    <img src="https://img.shields.io/badge/PHP-4EAA25?style=for-the-badge&logo=PHP&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="PHP">
+    <img src="https://img.shields.io/badge/React-4EAA25?style=for-the-badge&logo=React&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="React">
+    <img src="https://img.shields.io/badge/Django-4EAA25?style=for-the-badge&logo=Django&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Django">
+</p><br>
+
+<h2 align="center">Operative Systems</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Windows">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Windows">
+    <img alt="Arch Linux"
+        src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" />
+</p><br>
