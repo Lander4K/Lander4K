@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/Lander4K/Lander4K/main/assets/l4nder-rounded.png" width="150"
-        height="75" alt="logo" /></br>
+        height="150" alt="logo" /></br>
     L4nder
     <h5 align="center">
         I'm a young red teamer, pentester and developer.</br>
